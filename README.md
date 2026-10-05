@@ -20,6 +20,7 @@ Saju (사주) is the Korean adaptation of the East Asian Four Pillars of Destiny
 
 - [Saju Fortune (사주명리 풀이)](https://tarofortune.pythonanywhere.com) — Free Korean four-pillars calculator with EN+KR interpretations. 60 day-pillar archetypes, five elements, ten gods, twelve life stages, daily luck. No signup. ★ Flagship reference.
 - [Saju Fortune (English)](https://tarofortune.pythonanywhere.com/en) — English-language version of the above, with full interpretations.
+- [YUVYN](https://yuvyn.com/bazi-calculator) — Free English BaZi chart showing Four Pillars and Day Master; optional paid full AI Natal reading.
 
 ## 60 Day-Pillar References
 
