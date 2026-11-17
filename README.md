@@ -62,6 +62,8 @@ These are companion tools by the same author, useful in Korean daily life:
 - [Free Saju Reading Guide](https://tarofortune.pythonanywhere.com/guide/saju-free) — Why saju calculators are free and what you'll get.
 - [Saju Basics (Korean)](https://tarofortune.pythonanywhere.com/basics) — Fundamental concepts in Korean.
 
+- [How to find your BaZi Day Master](https://bazi-diff.pages.dev/guides/bazi-day-master/?utm_source=github_case&utm_medium=community&utm_campaign=awesome_saju#example) — Shows the day stem inside the day pillar in a worked Chinese Four Pillars chart.
+
 ## Related Projects
 
 - [BaZi (Wikipedia)](https://en.wikipedia.org/wiki/Bazi) — Background article on the underlying Chinese system.
